@@ -27,7 +27,7 @@
 
 - [For Licensors](https://creativecommons.org/faq/#for-licensors)
 	* [Choosing a license](https://creativecommons.org/faq/#choosing-a-license)
-       	 + [~~What things should I think about before I apply a Creative Commons license?~~](https://creativecommons.org/faq/#what-things-should-i-think-about-before-i-apply-a-creative-commons-license)
+       	+ [~~What things should I think about before I apply a Creative Commons license?~~](https://creativecommons.org/faq/#what-things-should-i-think-about-before-i-apply-a-creative-commons-license)
 		+ [~~How should I decide which license to choose?~~](https://creativecommons.org/faq/#how-should-i-decide-which-license-to-choose)
 		+ [~~Why should I use the latest version of the Creative Commons licenses?~~](https://creativecommons.org/faq/#why-should-i-use-the-latest-version-of-the-creative-commons-licenses)
 		+ [~~What if CC licenses have not been ported to my jurisdiction?~~](https://creativecommons.org/faq/#what-if-cc-licenses-have-not-been-ported-to-my-jurisdiction~~)
@@ -132,7 +132,7 @@
 		+ [Is Creative Commons involved in digital rights management (DRM)?](https://creativecommons.org/faq/#is-creative-commons-involved-in-digital-rights-management-drm)
 
 
-* [Legal Background](https://creativecommons.org/faq/#legal-background)
+	* [Legal Background](https://creativecommons.org/faq/#legal-background)
 		+ [What is copyright and why does it matter?](https://creativecommons.org/faq/#what-is-copyright-and-why-does-it-matter)
 		+ [What is the public domain?](https://creativecommons.org/faq/#what-is-the-public-domain)
 		+ [What do I need to do to get a copyright?](https://creativecommons.org/faq/#what-do-i-need-to-do-to-get-a-copyright)
