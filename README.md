@@ -18,10 +18,15 @@
 - 导入 FAQ 原文列表。
 - 修正译文错误与译文通顺化。
 
+##其他内容
+`CC License Human-Readable` 文件夹内收录了非官方翻译的 CC 4.0 协议的简明文本中文译文，供有需要者取用。在使用前，请务必阅读 `Statement.mdown` 声明文件。
+
 ## 当前参与者
 [漠伦](https://molun.net)
 
 ## 协议
 [![](https://licensebuttons.net/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
+
 本项目采用 知识共享 署名 4.0 国际 协议 授权。
+
 This project is licensed under a Creative Commons Attribution 4.0 International license.
