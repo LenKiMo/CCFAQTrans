@@ -1,0 +1,6 @@
+{
+    "plugins": [
+        "betterchinese",
+        "anchors-zhcn"
+    ]
+}
