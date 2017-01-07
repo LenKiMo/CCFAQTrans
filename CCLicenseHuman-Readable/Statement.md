@@ -1,4 +1,4 @@
-#声明
+# 声明
 
 本项目（知识共享 4.0 授权协议文本翻译项目，下同）是根据知识共享组织制定并发布的知识共享授权协议（Creative Commons Licenses）提供的原文进行翻译。知识共享授权协议文本采用 **知识共享 CC0 公共领域协议**（[Creative Commons CC0 Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/)）授权。
 
